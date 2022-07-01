@@ -1,0 +1,84 @@
+.Big{
+    display: flex;
+    
+}
+.Sub-Big{
+    height: 250px;
+    width: 33.3%;
+    background-color: yellowgreen;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    font-size: xx-large;
+    padding: 10px;
+    
+}
+.Medium{
+    display: flex;
+}
+.Sub-Medium{
+    height: 50px;
+    width: 25%;
+    background-color: yellowgreen;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    font-size: xx-large;
+    padding: 10px;
+    
+}
+.Small{
+    display: flex;
+}
+.Sub-Small{
+    height: 50px;
+    width: 20%;
+    background-color: yellowgreen;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    font-size: xx-large;
+    padding: 10px;
+    
+}
+.Big-1{
+    display: flex;
+}
+
+.Sub-Big-1{
+    height: 25%;
+    width: 33.3%;
+    background-color: white;
+    margin: 3px;
+    border-radius: 10px;
+    color: yellowgreen;
+    font-size: xx-large;
+    padding: 10px;
+
+}
+.Medium-1{
+    display: flex;
+}
+.Sub-Medium-1{
+    height: 25%;
+    width: 33.3%;
+    background-color: white;
+    margin: 3px;
+    border-radius: 10px;
+    color: yellowgreen;
+    font-size: xx-large;
+    padding: 10px;
+}
+.Small-1{
+    display: flex;
+}
+.Sub-Small-1{
+    height: 25%;
+    width: 33.3%;
+    background-color: white;
+    margin: 3px;
+    border-radius: 10px;
+    color: yellowgreen;
+    font-size: xx-large;
+    padding: 10px;
+}
